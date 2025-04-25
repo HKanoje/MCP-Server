@@ -1,0 +1,12 @@
+Work meeting today at 10 AM
+AI agents use autonomous decision-making to complete tasks without human intervention
+Types of AI agents include virtual assistants, recommendation systems, and autonomous vehicles
+Agent foundations research focuses on ensuring AI systems make decisions aligned with human values
+Multi-agent systems involve multiple AI agents interacting and collaborating to solve complex problems
+Reinforcement learning is commonly used to train AI agents through trial and error
+AI agents often need to handle uncertainty and incomplete information when making decisions
+Tools like LangChain and AutoGPT help developers create and deploy AI agents more easily
+Ethical considerations in AI agents include transparency, accountability, and preventing harmful behaviors
+Agentic AI systems can use tools and interact with external systems to accomplish goals
+Claude Code is an agentic command line tool from Anthropic that lets developers delegate coding tasks to Claude
+NOTES SUMMARY: Contains a calendar reminder (work meeting at 10 AM) and a collection of AI agent information covering their fundamental capabilities (autonomous decision-making, handling uncertainty), types (virtual assistants, recommendation systems), development approaches (reinforcement learning, multi-agent systems), technical implementation (tools like LangChain, external system interaction), ethical considerations (transparency, alignment with human values), and specific examples (Claude Code from Anthropic).
